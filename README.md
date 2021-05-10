@@ -8,7 +8,7 @@
   
   
   
-# Main Github Account:   [GitHub](https://github.com/bgoonz)
+# Main Github Account:   [bgoonz](https://github.com/bgoonz)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
