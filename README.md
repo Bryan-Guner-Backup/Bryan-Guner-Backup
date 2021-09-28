@@ -6,7 +6,7 @@
 
 > Netlify Research Program Participant!
 
-#### [WEBSITE](https://master--bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c) ⇄ [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
+#### [WEBSITE](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c) ⇄ [Other-Websites](https://bgoonz-blog.netlify.app/docs/medium/my-websites/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 
@@ -14,9 +14,7 @@
 
 <h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
 
-
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:570; height:420;">
-
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/)
 <a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a>
@@ -26,13 +24,13 @@
 [![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner)
 [![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz)
 
+![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
+
 <p align="center">
   <a href="mailto:bryan.guner@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a><a href="https://www.facebook.com/bryan.guner/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a><a href="https://twitter.com/bgooonz"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a><a href="https://www.instagram.com/bgoonz/?hl=en"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a><a href="https://www.linkedin.com/in/bryan-guner-046199128/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
-  
-  
-  
+   
 [![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
 
 <div align="center">
@@ -44,26 +42,27 @@
 
 <div align="center">
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
   
   | [GitHub](https://github.com/bgoonz)   	| [Gitlab](https://gitlab.com/bryan.guner.dev)  	| [Bitbucket](https://bitbucket.org/bgoonz/)  	| [Medium](https://bryanguner.medium.com/)  	| [code pen](https://codepen.io/bgoonz)   	|
 |---	|---	|---	|---	|---	|
 | [Replit](https://repl.it/@bgoonz/)  	|  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) 	| [Redit](https://www.reddit.com/user/bgoonz1)   	| [webcomponents.dev](https://webcomponents.dev/user/bgoonz)  	|  [dev.to](https://dev.to/bgoonz) 	|
 | [runkit](https://runkit.com/bgoonz)    	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	| [npm](https://www.npmjs.com/~bgoonz11)  	| [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)  	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	|
-| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)  	| [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  	|  [AngelList](https://angel.co/u/bryan-guner)  	| [StackShare](https://stackshare.io/bryanguner)  	| [Plunk](http://plnkr.co/account/plunks)   	|
-| [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	|
-| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	| [Stackblitz](https://stackblitz.com/@bgoonz)  	| [Vercel](https://vercel.com/bgoonz)  	| [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)  	|
-| [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	|   	|
-| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)  	| [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  	|  [AngelList](https://angel.co/u/bryan-guner)  	| [StackShare](https://stackshare.io/bryanguner)  	| [Plunk](http://plnkr.co/account/plunks)   	| [Tealfeed](https://tealfeed.com/bryan_759844)
+| [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	| [YHYPE](https://yhype.me/github/accounts/bgoonz) 
+| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	| [Stackblitz](https://stackblitz.com/@bgoonz)  	| [Vercel](https://vercel.com/bgoonz)  	| [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)  	| [Free Code Camp](https://www.freecodecamp.org/bgoonz)
+| [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	| [hashnode](https://hashnode.com/@bgoonz/joinme)  	|
+| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	| [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)  	|
+
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DATA_STRUC_PYTHON_NOTES)](https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)  
+  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
 
@@ -75,6 +74,11 @@
 <details>
 
 <summary>About Me</summary>
+  
+  
+  
+![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
+
 
 - 🔭 Contract Web Development **Relational Concepts**
 
@@ -157,8 +161,7 @@ Creating things that change my every day life.
 | **Databases** | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00) |
 | **Testing** | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00) |
 | **Other** | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) |
-
-  </div>
+</div>
 
 </details>
 
@@ -489,8 +492,7 @@ RecurseDirs "./"
 ```js
 $(document).ready(function() {
   $('code, pre').append('<span class="command-copy" ><i class="fa fa-clipboard" aria-hidden="true"></i></span>');
-
-  $('code span.command-copy').click(function(e) {
+$('code span.command-copy').click(function(e) {
     var text = $(this).parent().text().trim(); //.text();
     var copyHex = document.createElement('input');
     copyHex.value = text
@@ -501,8 +503,7 @@ $(document).ready(function() {
     document.body.removeChild(copyHex);
   });
 
-
-  $('pre span.command-copy').click(function(e) {
+$('pre span.command-copy').click(function(e) {
     var text = $(this).parent().text().trim();
     var copyHex = document.createElement('input');
     copyHex.value = text
@@ -590,8 +591,7 @@ function recurSum(arr, start = 0, sum = 0) {
   if (start < arr.length) {
     return recurSum(arr, start + 1, sum + arr[start]);
   }
-
-  return sum;
+return sum;
 }
 
 function rPartSumsArr(arr, partSum = [], start = 0, end = arr.length - 1) {
@@ -659,22 +659,18 @@ function addTwoNumbers(l1, l2) {
     let v2 = 0;
     if (l1 != null) v1 = l1.val;
     if (l2 != null) v2 = l2.val;
-
-    let sum = v1 + v2 + carryOver;
+  let sum = v1 + v2 + carryOver;
     carryOver = Math.floor(sum / 10);
     sum = sum % 10;
     currentNode.next = new ListNode(sum);
-
-    currentNode = currentNode.next;
+  currentNode = currentNode.next;
     if (l1 != null) l1 = l1.next;
     if (l2 != null) l2 = l2.next;
   }
-
-  if (carryOver > 0) {
+if (carryOver > 0) {
     currentNode.next = new ListNode(carryOver);
   }
-
-  return result.next;
+return result.next;
 }
 ```
 
